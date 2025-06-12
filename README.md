@@ -5,6 +5,6 @@ You control the snake with the keyboard as it moves nonstop, and the more it gro
 
 
 
-# Pseudo Code for the “Snake Chaos” game
+# Flow Chart for the “Snake Chaos” game
    
    <img width="785" alt="image" src="https://github.com/user-attachments/assets/fa5ffba7-7c1f-4b9a-a718-a8234ea88680" />

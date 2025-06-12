@@ -14,11 +14,11 @@ You control the snake with the keyboard as it moves nonstop, and the more it gro
 
 # Pseudo Code for the “Snake Chaos” game
 
+
+
 Start game and load sounds
 Initialize score, speed, and game state variables
 Create window and draw snake, food, special food, bomb, and score display
-
-
 
       While game is running:
          Update screen

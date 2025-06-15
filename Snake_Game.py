@@ -206,14 +206,14 @@ wn.onkey(quit_game, "q")
 
 # Keyboard
 wn.listen()
-wn.onkey(go_up, "w")
-wn.onkey(go_down, "s")
-wn.onkey(go_left, "a")
-wn.onkey(go_right, "d")
-wn.onkey(go_up, "Up")
-wn.onkey(go_down, "Down")
-wn.onkey(go_left, "Left")
-wn.onkey(go_right, "Right")
+wn.onkeypress(go_up, "w")
+wn.onkeypress(go_down, "s")
+wn.onkeypress(go_left, "a")
+wn.onkeypress(go_right, "d")
+wn.onkeypress(go_up, "Up")
+wn.onkeypress(go_down, "Down")
+wn.onkeypress(go_left, "Left")
+wn.onkeypress(go_right, "Right")
 
 
 

@@ -2,7 +2,7 @@
 Get ready for Snake Chaos — a wild twist on the classic Snake game where things get faster, crazier, and more explosive the longer you survive! Guide your snake through a colourful arena, gobbling up juicy fruit and glowing stars to rack up points and grow longer. But beware: hidden bombs, sharp turns, and your own tail are out to end your run in a flash of chaos and sound. With every bite, the speed ramps up, your reflexes are tested, and the challenge gets real. Can you stay in control long enough to claim the high score — or will chaos swallow you whole?
 
 
-# How to launch the game in your computer:
+# How to launch the game in your windows computer:
 1. Download the repository as a .zip file:
    * Find the green "Code" button on the repository's main page. 
    * Click on the "Code" button and then select "Download ZIP" from the dropdown menu.  

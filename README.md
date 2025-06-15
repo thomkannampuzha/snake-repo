@@ -1,8 +1,21 @@
 # About the “Snake Chaos” game
-In Snake Chaos, your aim is to help the snake eat as much food as possible to grow longer and earn points, all while avoiding crashes into walls, itself, or surprise bombs. The game ends if the snake hits any of these obstacles. Special food (like stars) gives extra points and bonus growth, but bombs are dangerous traps that can end the game with a cool explosion animation.
-You control the snake with the keyboard as it moves nonstop, and the more it grows, the faster it gets—making it harder to stay in control. Sound effects bring the game to life, and the score system keeps track of both your current score and your highest score. The challenge is simple: stay alive and get the highest score.
+Get ready for Snake Chaos — a wild twist on the classic Snake game where things get faster, crazier, and more explosive the longer you survive! Guide your snake through a colourful arena, gobbling up juicy fruit and glowing stars to rack up points and grow longer. But beware: hidden bombs, sharp turns, and your own tail are out to end your run in a flash of chaos and sound. With every bite, the speed ramps up, your reflexes are tested, and the challenge gets real. Can you stay in control long enough to claim the high score — or will chaos swallow you whole?
 
 
+# How to launch the game in your computer:
+1. Download the repository as a .zip file:
+   * Find the green "Code" button on the repository's main page. 
+   * Click on the "Code" button and then select "Download ZIP" from the dropdown menu.  
+
+2. Extract the .zip file:
+   * Locate the downloaded .zip file on your computer. 
+   8 Right-click on the .zip file and choose an option like "Extract All..." or "Extract Here" (the exact wording may vary depending on your operating system). 
+* Choose a location to extract the files, such as your Desktop or a dedicated folder for games.  
+
+3. Run the .exe file:
+   * Once the .zip file is extracted, navigate to the extracted folder. 
+   * Look for a file with the .exe extension, which is usually the game's executable file. 
+   * Double-click the .exe file to launch the game.  
 
 
 # Flow Chart for the “Snake Chaos” game
@@ -13,8 +26,6 @@ You control the snake with the keyboard as it moves nonstop, and the more it gro
 
 
 # Pseudo Code for the “Snake Chaos” game
-
-
 
 Start game and load sounds
 Initialize score, speed, and game state variables
